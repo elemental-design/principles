@@ -45,6 +45,12 @@ Design tools are generally comprised of some base primitives:
   
 React and Sketch are good tools to bridge the gap between design software and CSS attributes due to their component-based systems. React props can act as an API wrapper and syntactic sugar for things like background colour, images, patterns, blur, etc. Tooling can be used to bridge React with Sketch's open file format.
 
+## Grammar
+
+A common design language.
+
+[A Pocket Thesaurus for Describing Design Work](https://medium.com/google-design/designers-thesaurus-412340363f8c)
+
 ## Reading
 
 - https://daneden.me/2018/01/05/subatomic-design-systems/
